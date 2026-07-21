@@ -1,4 +1,3 @@
-# LangChain-RAG-Assistant
 
 <div align="center">
 
